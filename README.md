@@ -43,10 +43,4 @@ Geziver, kullanıcıların başlangıç ve varış noktalarına, ilgi alanların
 |-------------|-------------------|---------------|------------|
 | ![Giriş](./giris.png) | ![Bilgiler](./bilgi.png) | ![İlgi Alanları](./ilgi.png) | ![Özellikler](./olustur.png) | ![Çıktı](./rota.png) |
 
-> Alternatif olarak daha fazla ekran için:  
-> - ![AI Destekli](./assets/screenshots/ChatGPT%20Image%2010%20May%202025%2019_34_59.png)  
-> - ![Detay](./assets/screenshots/IMG-20250510-WA0017.jpg)  
-> - ![Detay2](./assets/screenshots/IMG-20250510-WA0018.jpg)  
-> - ![Harita](./assets/screenshots/route.png)
-
 ---
