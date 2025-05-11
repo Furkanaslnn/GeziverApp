@@ -39,8 +39,8 @@ Geziver, kullanıcıların başlangıç ve varış noktalarına, ilgi alanların
 
 ## 🖼️ Uygulama Ekran Görüntüleri
 
-| Giriş Ekranı | Seyahat Bilgileri | İlgi Alanları | Özellikler |
-|-------------|-------------------|---------------|------------|
+| Giriş Ekranı | Seyahat Bilgileri | İlgi Alanları | Özellikler | Çıktı |
+|-------------|-------------------|---------------|------------|-------------|
 | ![Giriş](./giris.png) | ![Bilgiler](./bilgi.png) | ![İlgi Alanları](./ilgi.png) | ![Özellikler](./olustur.png) | ![Çıktı](./rota.png) |
 
 ---
